@@ -1,6 +1,6 @@
 
 
-//crdit :Peter Dalmaris Tech Explorations
+//credit :Peter Dalmaris Tech Explorations
 const byte led_gpio = 32; //the PMW pin the LED is attached to
 int brightness = 0; //how bright is the LED
 int fadeAmount = 5; //how many points to fade the LED by
